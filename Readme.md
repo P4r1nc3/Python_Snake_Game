@@ -1,4 +1,4 @@
-# Java_Snake_Game
+# Python_Snake_Game
 
 ## 🎴 What's the snake game
 * Snake is a game in which the players need to think about controlling snake to explore an map and catch the appples and handle the situation to avoid hitting with the any obstacle or itself.
